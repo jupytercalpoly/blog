@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Jupyter Team at Cal Poly"  # (translatable)
 BLOG_TITLE = "Jupyter at Cal Poly"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://http(s)://jupytercalpoly.github.io/blog/"
+SITE_URL = "https://jupytercalpoly.github.io/blog/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://http(s)://jupytercalpoly.github.io/blog/"
